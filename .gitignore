@@ -1,0 +1,8 @@
+bower_components
+node_modules
+vendor
+images
+.git
+
+/**/Thumbs.db
+/**/*.DS_Store

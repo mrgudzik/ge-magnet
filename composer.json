@@ -1,0 +1,17 @@
+{
+    "name": "gudzik/ge-magnet",
+    "description": "Awesome plugin",
+    "type": "project",
+    "license": "GPL",
+    "authors":[
+    	{
+    		"name": "gudzik",
+    		"email": "mrgudzik@ukr.net"
+    	}
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+    	"psr-4": {"Inc\\": "./inc"}
+    }
+}
